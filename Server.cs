@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KorisnickaPodrska1
 {
-    internal class Program
+    internal class Server
     {
         static void Main(string[] args)
         {

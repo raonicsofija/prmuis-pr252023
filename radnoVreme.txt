@@ -1,0 +1,7 @@
+Ponedeljak-00:00-23:59
+Utorak-00:00-23:59
+Sreda-00:00-23:59
+Cetvrtak-00:00-23:59
+Petak-00:00-23:59
+Subota-00:00-23:59
+Nedelja-00:00-23:59

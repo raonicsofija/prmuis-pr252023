@@ -7,12 +7,11 @@ using System.IO;
 
 namespace KorisnickaPodrska1
 {
-    class Server
+    public class Server
     {
-        static Dictionary<string, (TimeSpan, TimeSpan)> radnoVreme =
-            new Dictionary<string, (TimeSpan, TimeSpan)>();
+        static Dictionary<string, (TimeSpan, TimeSpan)> radnoVreme = new Dictionary<string, (TimeSpan, TimeSpan)>();
 
-        static void Main()
+        static void Main(string[] args)
         {
             UcitajRadnoVreme();
 
